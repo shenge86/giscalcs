@@ -18,5 +18,4 @@ fn main() {
     println!(
         "Distance between Paris and London on the surface of Earth is {:.1} kilometers",
         distance
-    );
-}
+};
